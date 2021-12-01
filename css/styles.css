@@ -1,0 +1,36 @@
+body{
+  background-color: #F4E185;
+}
+
+.numbers{
+   color: #0F2C67
+}
+
+.stats td {
+  text-align: center;
+}
+
+.td {
+  text-align: center;
+}
+
+
+
+
+.red{
+  color: #0F2C67 ;
+  text-align: center;
+
+}
+
+
+ul::marker
+{
+list-style-type: circle;
+border-radius: 3em;
+text-align: center;
+}
+li{
+color: #CD1818;
+
+}
